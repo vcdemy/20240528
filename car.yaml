@@ -1,0 +1,5 @@
+train: C:\Users\Victor\vcdemy\20240528\car\train
+test: C:\Users\Victor\vcdemy\20240528\car\test
+val: C:\Users\Victor\vcdemy\20240528\car\val
+nc: 1
+names: [licence]
