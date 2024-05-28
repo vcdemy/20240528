@@ -1,0 +1,5 @@
+train: C:\Users\Victor\vcdemy\20240528\css\train
+test: C:\Users\Victor\vcdemy\20240528\css\test
+val: C:\Users\Victor\vcdemy\20240528\css\valid
+nc: 10
+names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone, Safety Vest, machinery, vehicle]
